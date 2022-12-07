@@ -1,0 +1,5 @@
+{
+    "FSharp.suggestGitignore": false,
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
